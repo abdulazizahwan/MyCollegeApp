@@ -5,4 +5,4 @@ In this post, we are gonna talk about Designing Modern College Dashboard UI Adob
 <img src="http://abdulazizahwan.blog.unnes.ac.id/wp-content/uploads/sites/3025/2019/06/MyCollegeDashboard.png" width="200;"/>
 
 ## Full video here
-<a href="https://youtu.be/zeWnDlcNjQU" target="_blank"><img src="http://abdulazizahwan.blog.unnes.ac.id/wp-content/uploads/sites/3025/2019/06/Untitled-1.png" width="848" height="480"/></a>
+<a href="https://youtu.be/zeWnDlcNjQU" target="_blank"><img src="http://abdulazizahwan.blog.unnes.ac.id/wp-content/uploads/sites/3025/2019/06/Untitled-1.png"/></a>
