@@ -6,3 +6,5 @@ In this post, we are gonna talk about Designing Modern College Dashboard UI Adob
 
 Full video here
 <iframe width="420" height="315" src="https://youtu.be/zeWnDlcNjQU"></iframe>
+
+<a href="https://youtu.be/zeWnDlcNjQU" target="_blank"><img src="http://abdulazizahwan.blog.unnes.ac.id/wp-content/uploads/sites/3025/2019/06/Untitled-1.png" width="240" height="180"/></a>
