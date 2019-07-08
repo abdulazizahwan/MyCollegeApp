@@ -8,4 +8,4 @@ In this repository, we are gonna talk about Designing Modern College Dashboard U
 <a href="https://youtu.be/zeWnDlcNjQU" target="_blank"><img src="https://img.youtube.com/vi/zeWnDlcNjQU/maxresdefault.jpg"/></a>
 
 ## Part II [Code Section]
-<a href="https://www.youtube.com/watch?v=6jVedb2c-c8&t=537s" target="_blank"><img src="https://img.youtube.com/vi/6jVedb2c-c8/maxresdefault.jpg"/></a>
+<a href="https://youtu.be/6jVedb2c-c8" target="_blank"><img src="https://img.youtube.com/vi/6jVedb2c-c8/maxresdefault.jpg"/></a>
